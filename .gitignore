@@ -1,8 +1,3 @@
-/ConfigParser/src/ConfigParser/ConfigParser.java
-/ConfigParser/ConfigParser.iml
-/Encoder/
-/Encoder/src/VelichkoA/EncoderGrammar.java
-/Encoder/Encoder.iml
 /.idea/
 /configs/Mamaeva_ExecutorConfig_1.txt
 /configs/Mamaeva_ExecutorConfig_2.txt
@@ -12,16 +7,4 @@
 /libs/
 /out/production/
 /src/
-/Manager/src/VelichkoA/Manager.java
-/Manager/src/VelichkoA/ManagerGrammar.java
-/Manager/Manager.iml
-/Reader/src/VelichkoA/Reader.java
-/Reader/src/VelichkoA/ReaderGrammar.java
-/Reader/Reader.iml
-/Writer/src/VelichkoA/Writer.java
-/Writer/src/VelichkoA/WriterGrammar.java
-/Writer/Writer.iml
-/logs/
-/testFiles/
 /configs/Velichko_ManagerConfig_1.txt
-/configs/Velichko_ManagerConfig_2.txt
